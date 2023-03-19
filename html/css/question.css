@@ -33,7 +33,7 @@ body {
   height: 80px;
   width: 200px;
 
-  border: none;
+  margin: 100px 40px 0 40px;
 }
 
 .wrapper button:hover {
